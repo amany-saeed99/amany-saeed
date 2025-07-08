@@ -9,7 +9,7 @@
 🌸 **About me:**
 - 🌱 I am Power BI developer.
 - 🎓 Graduated from Faculty of Science, Helwan University.
-- 💬 Ask me about: **Power BI, Excel, Tableau, SQL, NoSQL (mongo, xml), ML, DL**.
+- 💬 Ask me about: **Power BI, Excel, Tableau, SQL, NoSQL (mongo, xml)**.
 - 📫 How to reach me: [amanysaeed52@gmail.com](mailto:amanysaeed52@gmail.com)
 
 ---
