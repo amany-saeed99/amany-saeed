@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi! I'm Amany Saeed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Data+Analyst;Power+BI+Specialist;Python+%7C+SQL+%7C+Tableau+%7C+ML+%7C+DL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Data+Analyst;Power+BI+Specialist;" alt="Typing SVG" />
 </p>
 
 ---
